@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/amiof/images/main/blog-hygraph.gif
+
 
 <h1 align="center">
 blog -hygraph
